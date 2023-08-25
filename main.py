@@ -46,3 +46,5 @@ print(number)
 print(f"This is the number {number:.2f}")
 print(f"This is the number {number: 7.2f}")
 print(f"{'Pi':12s}:{math.pi:10.5f}")
+
+print("Hello!")
